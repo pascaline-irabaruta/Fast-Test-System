@@ -1,0 +1,411 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Oct-2020, 16:38:02
+    Author     : PACY
+*/
+footer ul {
+    list-style-type: none;
+  }
+  #pb {
+      margin-top: 100px;
+  }
+  #recent {
+      margin-top: 10px;
+  }
+  #ptable {
+      display: none;
+      
+  }
+  #pcard {
+      width: 300px;
+      height: 200px;
+      margin-bottom: 20px;
+  }
+  .foot {
+      width:100px;
+      margin-left: -5px;
+      border: none;
+      height: 36px;
+      background-color: #ffb3b3;
+  }
+  .listul li a {
+    margin-left: 50px;
+    color:#8a8989 ;
+    font-family: 'Kite One', sans-serif;
+    font-weight: bold;
+  }
+  .listul li a:hover {
+    margin-left: 50px;
+    color:#f73535 ;
+    font-family: 'Kite One', sans-serif;
+    font-weight: bold;
+  }
+  nav li a:hover {
+    color:red !important ;
+    font-family: 'Kite One', sans-serif;
+    font-weight: bold;
+  }
+  .inpFooter {
+      height:36px;
+  }
+  #aptbody {
+     background-image: url(https://image.freepik.com/free-photo/express-covid-19-test-igm-igg-antibodies-novel-corona-virus-sars-cov-2-covid-19-nurse-medtech-hand-glove-with-coronavirus-test-stripes-purple-neon-background_87646-7012.jpg); 
+     background-position: center center;
+    background-size: cover;
+  }
+  #tbody {
+     background-image: url(https://image.freepik.com/free-photo/express-covid-19-test-igm-igg-antibodies-novel-corona-virus-sars-cov-2-covid-19-nurse-medtech-hand-glove-with-coronavirus-test-stripes-purple-neon-background_87646-7012.jpg); 
+     background-position: center center;
+    background-size: cover; 
+  }
+  #hosbody {
+   margin-top: 80px; 
+    background-image: url(https://image.freepik.com/free-photo/express-covid-19-test-igm-igg-antibodies-novel-corona-virus-sars-cov-2-covid-19-nurse-medtech-hand-glove-with-coronavirus-test-stripes-purple-neon-background_87646-7012.jpg);
+    background-position: center center;
+    background-size: cover;
+   
+  }
+  #t,#ho,#pab,#para{
+      display: none;
+  }
+  #tk{
+      margin-top: 120px;
+  }
+  #hospFooter {
+      margin-top: 30%;
+  }
+  #hcard {
+      margin-bottom: 10px;
+  }
+  #apt {
+      margin-top: 10%;
+  }
+  #apoint {
+      padding: 10px;
+      float: right;
+  }
+  .copyright {
+    color: rgb(114, 112, 112);
+    border-top: 1px solid grey;
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+   .fas {
+      color:#ffb3b3!important ;
+  }
+  .Iconss .far {
+    color:#ffb3b3 ;
+}
+.bookForm {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: 2px solid white;
+    margin-bottom: 10%;
+}
+.headerContent {
+    margin-top: 30px; 
+    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(https://www.thestatesman.com/wp-content/uploads/2020/03/QT-covid-test.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+#regForm {
+    display: none;
+}
+
+#reg {
+    background-color: white;
+}
+.sicon {padding: 1px; margin: 8px; color: #fff; }
+.headerContent {
+    text-align: center;
+    color: #fff;
+    padding-top: 200px;
+
+}
+#vd {
+    color:#f73535;
+    font-size: 18px;
+}
+.logo {
+
+    font-size: 30px!important;
+    color: #fff;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.spanLogo1 {
+    color: #ffb3b3;
+    font-size: 50px!important;
+    font-family: 'Sansita Swashed', cursive;
+
+}
+.logo2{
+
+    font-size: 40px!important;
+    color: rgb(199, 199, 199);
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.spanLogo2 {
+    color: #f37676;
+    font-size: 50px!important;
+    font-family: 'Sansita Swashed', cursive;
+
+}
+#sgnin ,#reg {
+    margin-top: 1%;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+#sgnin {
+    background-color: white;
+    margin-left: 10px;
+}
+#hreg {
+    margin-top: 90px;
+    
+}
+#hf {
+    margin-top: 50px;
+}
+#lf {
+    margin-left: 20px;
+}
+#hospForm {
+    color: black;
+    display: none;
+}
+#hbody {
+    background-image: url(https://img.freepik.com/free-photo/express-covid-19-test-igm-igg-antibodies-novel-coronavirus-sars-cov-2-covid-19-medics-hand-glove-collects-patient-blood-with-disposable-pipette-vibrant-blue-purple-background_87646-6987.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+td {
+    color: white;
+    font-weight: bold;
+}
+.logo1{
+
+    font-size: 45px!important;
+    color: #fff;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.spanLogo {
+    color: #ffb3b3;
+    font-size: 35px!important;
+    font-family: 'Sansita Swashed', cursive;
+
+}
+#signinForm {
+    display: none;
+}
+
+#blog {
+    text-align: center;
+    padding-top: 60px;
+    margin: 0 100px 100px;
+}
+
+h3 {
+    padding-bottom: 40px;
+}
+.bg {background-color: #EE8888; }
+.banner {
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+/**********************************/
+
+/*.authBlog {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fc9898;
+    font-size: 25px;
+}*/
+
+/*.blogPos {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fc9898;
+    font-size: 25px;
+}*/
+
+div.form {
+    display: block;
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.formpage {
+    background-color: #f2f2f2;
+    width: 540px;
+    margin: auto; 
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+/*#formpage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://res.cloudinary.com/zilfa/image/upload/v1602698168/lum3n--RBuQ2PK_L8-unsplash_iqoksg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right;
+}*/
+
+.artic {
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+hr {
+    background-color: grey;
+}
+
+.required {
+    color: red;
+    font-size: 20px;
+}
+
+form input[required=required]:after {
+    color: red;
+    content: " *";
+}
+
+.form p {
+    font-family: serif;
+}
+
+::placeholder {
+    font-style: italic;
+    font-family: initial;
+}
+
+.thar {
+    background-color: #f8a6a6;
+    width: 200px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    border: #ff9999;
+    color: white;
+    cursor: pointer;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.thar:hover {
+    background-color: rgb(163, 159, 159);
+}
+
+input[type=text] {
+    border: 1px solid rgb(163, 160, 160);
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+
+h2{
+    color: #ff667d;
+    font-size: 20px;
+}
+h5{
+    color:#ff667d;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex-container>div {
+    padding: 20px;
+}
+.jumbotron{
+    padding: 0;
+    padding-left: 0;
+}
+.image-for-card{
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+
+#create:hover{
+     background-color: #f73535;
+     color: white;
+}
+#abt {
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+#about h3 {
+    color: pink;
+}
+#stat {
+    color: green;
+    font-weight: bolder;
+}
+
+
+
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 3.6s ease;
+}
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 3.5s;
+  animation-name: fade;
+  animation-duration: 3.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 3}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 3}
+}
+#healthyc img {
+    width:100%;
+    height: 300px;
+}
